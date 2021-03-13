@@ -1,5 +1,4 @@
-# coffee-kaka
-Apache Kafka tutorial for beginners with exercises.
+Apache Kafka tutorial for beginners.
 
 # Apache Kafka Architecture
 ![alt text](./public/img/apache-kafka-architecture.png)
